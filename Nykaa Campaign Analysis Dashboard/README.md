@@ -48,7 +48,7 @@ Provides a high-level summary of campaign performance:
 
 \* Premium and working professionals are key target audiences
 
-\* Revenue shows a declining trend over time in certain campaigns
+\* Revenue shows a declining trend over time
 
 
 
@@ -60,53 +60,27 @@ Provides a high-level summary of campaign performance:
 
 
 
-Analyzes performance across different marketing channels:
-
-
-
 \* \*\*Revenue by Channel\*\*
 
-
-
-&#x20; \* Instagram, WhatsApp, YouTube, and Google dominate revenue contribution
+&#x20; Instagram, WhatsApp, YouTube, and Google dominate revenue
 
 
 
 \* \*\*Conversion by Campaign Type\*\*
 
-
-
-&#x20; \* Social Media and Influencer campaigns show higher conversion rates
+&#x20; Social Media and Influencer campaigns perform best
 
 
 
 \* \*\*Customer Segmentation\*\*
 
-
-
-&#x20; \* Balanced contribution across:
-
-
-
-&#x20;   \* College Students
-
-&#x20;   \* Working Women
-
-&#x20;   \* Youth
-
-&#x20;   \* Premium Shoppers
-
-&#x20;   \* Tier 2 City Customers
+&#x20; Balanced across multiple customer groups
 
 
 
 \* \*\*Campaign Cost vs Revenue\*\*
 
-
-
-&#x20; \* Identifies efficiency of each campaign type
-
-&#x20; \* Helps compare ROI across channels
+&#x20; Helps compare efficiency of campaigns
 
 
 
@@ -118,39 +92,13 @@ Analyzes performance across different marketing channels:
 
 
 
-Provides deeper performance analysis:
-
-
-
 \* \*\*Conversion Rate by Campaign Type\*\*
-
-
-
-&#x20; \* Consistent performance across campaign types
-
-
 
 \* \*\*Campaign Trend Over Time\*\*
 
-
-
-&#x20; \* Tracks campaign activity and engagement across dates
-
-
-
 \* \*\*ROI by Campaign Type\*\*
 
-
-
-&#x20; \* Social Media and Influencer campaigns show higher returns
-
-
-
 \* \*\*Cost per Conversion\*\*
-
-
-
-&#x20; \* Helps evaluate cost efficiency of each campaign
 
 
 
@@ -162,49 +110,11 @@ Provides deeper performance analysis:
 
 
 
-\### 🗂 Data Modeling
+\* Data Modeling using structured schema
 
+\* DAX measures for KPIs
 
-
-\* Structured data model for efficient performance and filtering
-
-
-
-\### 🧮 DAX Measures
-
-
-
-\* Created KPIs such as:
-
-
-
-&#x20; \* Total Revenue
-
-&#x20; \* Conversions
-
-&#x20; \* ROI
-
-&#x20; \* Cost per Conversion
-
-
-
-\### 📊 Visualization
-
-
-
-\* Multi-page dashboard design
-
-\* Combination of bar charts, line charts, funnel, and scatter plots
-
-
-
-\### 🎛 Interactivity
-
-
-
-\* Page navigation for structured analysis
-
-\* Interactive visuals for deeper insights
+\* Interactive multi-page dashboard
 
 
 
@@ -227,16 +137,6 @@ Provides deeper performance analysis:
 \---
 
 
-
-\## 🖼 Dashboard Preview
-
-
-
-!\[Overview](overview.png)
-
-!\[Channel Insights](channel.png)
-
-!\[Campaign Metrics](campaign.png)
 
 
 
