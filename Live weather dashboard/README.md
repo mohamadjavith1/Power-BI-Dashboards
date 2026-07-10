@@ -1,5 +1,7 @@
 # 🌦 Live IoT Weather Dashboard – Real-Time Analytics System
 
+**Access Live Dashboard here:** https://tinyurl.com/3je5c5jw
+
 ## 📊 Project Overview
 This project is a real-time weather analytics dashboard powered by a custom-built IoT weather station. Unlike traditional dashboards that rely on static or historical datasets, this solution captures live environmental data and transforms it into actionable insights through Power BI.
 
