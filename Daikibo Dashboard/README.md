@@ -1,44 +1,28 @@
-Factory Telemetry Analysis – Finding Machine Breakdowns with Power BI
+# 🏭 Factory Telemetry Analysis – Finding Machine Breakdowns with Power BI
 
-Project Overview
+**Access Live Dashboard here:** https://tinyurl.com/mr9k3xt
 
-I recently completed a data analysis project focused on manufacturing efficiency for Daikibo, a global client with four major production hubs (Tokyo, Osaka, Berlin, and Shenzhen). The goal was to transform a month’s worth of raw telemetry data (May 2021) into a clear, actionable dashboard that identifies where and why production is being interrupted.
+## 📊 Project Overview
+This data analysis project focuses on manufacturing efficiency for **Daikibo**, a global manufacturer with four major production hubs: Tokyo, Osaka, Berlin, and Shenzhen. The objective was to transform a month’s worth of raw telemetry data (May 2021) into a high-impact, actionable dashboard that pinpoints exactly where and why production lines are stalling.
 
+---
 
+## 🎯 The Problem Statement
+The client needed to answer two critical operational questions to minimize costly manufacturing downtime:
+1. **Location Analysis:** In which factory location do machines break down the most?
+2. **Root Cause Analysis:** Which specific machine types are responsible for the highest frequency of failures in that high-risk location?
 
-The Problem Statement
+---
 
-The client needed to answer two critical operational questions:
+## ⚙️ Technical Approach
 
+* **Data Source:** Processed a single, high-frequency JSON file containing telemetry messages transmitted every 10 minutes across 9 distinct machine types.
+* **Data Transformation (ETL):** Utilized **Power Query** to flatten the nested JSON structure, clean timestamps, and optimize data types for high-performance querying.
+* **Data Modeling:** Built a minimalist **Star Schema** to maintain a lightweight file size and ensure rapid, responsive cross-filtering.
+* **Visualization & UI Design:** Designed a focused, single-page dashboard. Prioritized high scannability over visual clutter, using sorted bar charts and dynamic KPI cards to make the worst-performing factories and machines instantly recognizable.
 
+---
 
-Location Analysis: In which factory location did machines break down the most?
-
-
-
-Root Cause: Which specific machine types were responsible for the highest frequency of failures in that high-risk location?
-
-
-
-Technical Approach
-
-Data Source: Processed a single JSON file containing telemetry messages sent every 10 minutes across 9 machine types.
-
-
-
-Data Transformation: Used Power Query to flatten the JSON structure and ensure data types were optimized for analysis.
-
-
-
-Data Modeling: Focused on a minimalist star schema to keep the dashboard responsive and user-friendly.
-
-
-
-Visualization: Designed a high-impact, single-page dashboard. I prioritized scannability over complexity to ensure the "worst-performing" factory and machine types were immediately visible via sorted bar charts and KPI cards.
-
-
-
-Key Insights
-
-By filtering the telemetry for specific "breakdown" indicators, the dashboard clearly identifies the bottleneck factory and the specific machine models that require maintenance or replacement to minimize future downtime.
-
+## 🚀 Key Insights & Impact
+* **Downtime Bottlenecks:** By filtering the telemetry data specifically for "breakdown" status indicators, the dashboard immediately isolates the bottleneck factory.
+* **Targeted Maintenance:** Pinpoints the exact machine models driving the failures in the at-risk facility, moving the client from reactive troubleshooting to targeted preventative maintenance.
