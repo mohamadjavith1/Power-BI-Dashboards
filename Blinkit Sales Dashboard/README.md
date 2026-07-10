@@ -1,6 +1,6 @@
 \# 🛒 Grocery Sales Analysis Dashboard
 
-**Access Live Dashboard Here: **https://app.powerbi.com/view?r=eyJrIjoiZTUxOWY2YjctNDc3MC00YjA0LWI3OWQtMjM3ZGZhY2JhYzM4IiwidCI6IjBjM2QwNTc2LTFkOWYtNGM4Ny05OTNjLTg2YjQ0MGE1YjA3OCJ9
+**Access Live Dashboard Here:** https://app.powerbi.com/view?r=eyJrIjoiZTUxOWY2YjctNDc3MC00YjA0LWI3OWQtMjM3ZGZhY2JhYzM4IiwidCI6IjBjM2QwNTc2LTFkOWYtNGM4Ny05OTNjLTg2YjQ0MGE1YjA3OCJ9
 
 This Power BI dashboard provides a comprehensive look at the sales performance, customer satisfaction, and inventory distribution of a leading quick-commerce platform. The report is designed to help stakeholders identify growth opportunities and optimize operational efficiency through data-driven insights.
 
