@@ -1,5 +1,7 @@
 # 🏆 Sports Merchandise Analytics Dashboard
 
+**Access Live Dashboard Here:** https://tinyurl.com/z28sn93k
+
 ## 📊 Project Overview
 The **Sports Merchandise Analytics Dashboard** is an interactive Power BI solution designed to analyze sales performance, customer behavior, website traffic, conversion effectiveness, and product profitability within a sports merchandise business. 
 
