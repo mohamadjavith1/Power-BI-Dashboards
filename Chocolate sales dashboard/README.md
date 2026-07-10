@@ -1,6 +1,6 @@
 # 🍫 Chocolate Sales Performance & Insights Dashboard
 
-**Access Live Dashboard Here:** https://app.powerbi.com/view?r=eyJrIjoiYmYyNjNhMmQtYzBmNy00MDI5LTg5YzMtZDg1YzM2MDRkOWVjIiwidCI6IjBjM2QwNTc2LTFkOWYtNGM4Ny05OTNjLTg2YjQ0MGE1YjA3OCJ9
+**Access Live Dashboard Here:** https://tinyurl.com/bdeemfbv
 
 ## 📊 Project Overview
 
