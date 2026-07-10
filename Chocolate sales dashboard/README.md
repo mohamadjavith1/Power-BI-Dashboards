@@ -1,52 +1,57 @@
-Chocolate Sales Performance \& Insights Dashboard
+# 🍫 Chocolate Sales Performance & Insights Dashboard
 
-Project Overview
+**Access Live Dashboard Here:** https://app.powerbi.com/view?r=eyJrIjoiYmYyNjNhMmQtYzBmNy00MDI5LTg5YzMtZDg1YzM2MDRkOWVjIiwidCI6IjBjM2QwNTc2LTFkOWYtNGM4Ny05OTNjLTg2YjQ0MGE1YjA3OCJ9
 
-This Power BI dashboard provides a comprehensive analysis of sales performance for a chocolate manufacturing/distribution business. It is designed to help stakeholders track key performance indicators (KPIs), understand regional trends, and optimize product distribution strategies.
+## 📊 Project Overview
 
-
-
-Key Features \& Insights
-
-Sales Performance Tracking: Visualizes total revenue, profit margins, and sales volume across different time periods.
+This Power BI dashboard provides a comprehensive analysis of sales performance for a chocolate manufacturing and distribution business. It is designed to help stakeholders track key performance indicators (KPIs), understand regional trends, and optimize product distribution strategies.
 
 
 
-Geographical Analysis: A deep dive into regional sales, allowing users to identify top-performing markets and area with growth potential.
+---
 
 
 
-Product Portfolio Insights: Analyzes which chocolate varieties or brands are driving the most value, helping in inventory and marketing prioritization.
+## 🚀 Key Features & Insights
 
 
 
-Trend Identification: Uses time-series data to spot seasonal peaks in chocolate consumption, essential for supply chain planning.
+* **Sales Performance Tracking:** Visualizes total revenue, profit margins, and sales volume across different time periods.
+
+* **Geographical Analysis:** Offers a deep dive into regional sales, allowing users to identify top-performing markets and areas with growth potential.
+
+* **Product Portfolio Insights:** Analyzes which chocolate varieties or brands are driving the most value, aiding in inventory and marketing prioritization.
+
+* **Trend Identification:** Uses time-series data to spot seasonal peaks in chocolate consumption, which is essential for supply chain planning.
 
 
 
-Technical Highlights
-
-DAX Measures: Optimized calculations for Year-over-Year (YoY) growth and rolling averages to provide dynamic business context.
+---
 
 
 
-Data Modeling: A clean Star Schema design ensures high performance and scalability of the report.
+## ⚙️ Technical Highlights
 
 
 
-Interactive UI/UX: Features a user-friendly interface with intuitive navigation and cross-filtering capabilities for granular data exploration.
+* **Data Modeling:** Built using a clean **Star Schema** design to ensure high report performance, efficient relationship management, and scalability.
+
+* **DAX Measures:** Features optimized calculations for Year-over-Year (YoY) growth and rolling averages to provide dynamic business context.
+
+* **Interactive UI/UX:** Designed with a user-friendly interface utilizing intuitive navigation and cross-filtering capabilities for granular data exploration.
 
 
 
-Tools Used
-
-Power BI Desktop (Data Visualization and Modeling)
+---
 
 
 
-Power Query (ETL and Data Transformation)
+## 🛠 Tools Used
 
 
 
-DAX (Advanced Analytics)
+* **Power BI Desktop** – Data Modeling & Visualization
 
+* **Power Query** – ETL & Data Transformation
+
+* **DAX** – Advanced Analytics & Custom Measures
