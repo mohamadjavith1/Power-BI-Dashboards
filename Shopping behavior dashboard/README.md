@@ -1,32 +1,41 @@
-Live IoT Weather Dashboard
+# 🛍️ Shopping Behavior Dashboard
 
-This is a real-time weather dashboard powered by a custom-built DIY IoT weather station. While many weather dashboards available online use static datasets or merely change color schemes on the same template, this project is fundamentally different. It is a live system that bridges the gap between physical hardware and digital analytics.
+**Access Live Dashboard Here:** https://tinyurl.com/yk8uzpar
 
+## 📊 Project Overview
+This Power BI dashboard analyzes customer shopping behavior and purchasing patterns to uncover actionable business insights. The solution enables stakeholders to seamlessly explore customer preferences, spending habits, product performance, and key sales trends through interactive, cross-filtered visualizations.
 
+---
 
-&#x20;
+## 🎯 Objectives
+* **Analyze Purchasing Behavior:** Uncover how different customer segments make purchasing decisions.
+* **Identify Sales Trends:** Map out seasonal, monthly, and category-specific revenue trajectories.
+* **Understand Demographics:** Isolate customer profiles, preferences, and geographical spending habits.
+* **Track Product Performance:** Identify best-selling items and inventory categories driving the highest value.
+* **Support Data-Driven Decisions:** Provide a reliable single-source-of-truth for retail operational optimization.
 
+---
 
+## 📈 Dashboard Features
+* **Interactive Slicers & Filters:** Enables dynamic drilling by demographics, location, and timeline parameters.
+* **Customer Segmentation Analysis:** Breaks down purchasing patterns across tailored customer groups.
+* **Sales Performance Tracking:** High-impact KPI cards and charts monitoring revenue and average transaction sizes.
+* **Product Category Insights:** Deep dive into product line profitability and volume performance.
+* **Trend & KPI Monitoring:** Time-series analysis highlighting peak shopping periods and purchasing velocity.
 
-Technical Overview
+---
 
-Data Collection: Unlike dashboards that rely on CSV uploads, this station utilizes an ESP8266 microcontroller paired with DHT11 and BMP280 sensors. Live readings for Temperature, Humidity, and Pressure are logged directly to Google Sheets in real-time.
+## 🛠️ Tools & Technologies
+* **Power BI Desktop** – Report Architecture & Dashboard Engineering
+* **DAX (Data Analysis Expressions)** – Advanced Business Intelligence Metrics & KPI Calculations
+* **Power Query** – ETL, Data Cleansing, and Schema Optimization
+* **Data Modeling & Visualization** – Star Schema implementation and user-centric UI/UX design
 
+---
 
-
-Region-Specific Calibration: Specifically calibrated for the unique tropical climate of the Trichy, Tamil Nadu region, ensuring localized accuracy that global APIs often miss.
-
-
-
-Advanced Analytics: Using only four raw data points (Timestamp, Temp, Humidity, and Pressure), I have developed a custom suite of DAX measures. These calculate complex weather trends, "feels like" temperatures (Heat Index), and atmospheric dew points.
-
-
-
-Dynamic Visuals: The interface isn't just a static skin; it features weather-dependent iconography and a custom refresh schema that ensures the data you see is as fresh as the air outside.
-
-
-
-Why this stands out
-
-Most dashboards you see are "re-skins" of existing templates. This project demonstrates a full-stack data engineering pipeline: Sensor → Microcontroller → Cloud Storage → Power BI Logic → End-User Visualization.
-
+## 📌 Key Insights
+The dashboard empowers stakeholders to:
+* Interpret shifting customer buying patterns instantly.
+* Target marketing and inventory allocation toward high-performing products and categories.
+* Continuously monitor baseline business health via top-level KPI metrics.
+* Leverage historical trends to forecast upcoming demand and customer purchasing decisions.
